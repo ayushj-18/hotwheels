@@ -20,7 +20,22 @@ This is a 1lb PLANT (Plastic Antweight) Combat Robot. The Weapon type is a Wedge
 - PLA Planning to use- PLA+ Black & Orange Color
 
 ### BOM
-![image](https://github.com/user-attachments/assets/66843fc0-5213-4546-9974-41da4b0f973f)
+| Item                  | Info                         | Cost             | Description                                         | Final? | Supplier |
+|-----------------------|------------------------------|------------------|-----------------------------------------------------|--------|----------|
+| Malenki Nano          | Reciever+Drive ESCs          | $28              | Custom PCB to skip Motor ESCs                      | Yes    | [Link](https://itgresa.com/product/malenki-nano-dual-esc-and-receiver/) |
+| Drive Motors          | For moving around            | $24.60           | N20s, pretty dope                                   | Yes    | [Link](https://itgresa.com/product/turnabot-high-power-n20-motors-hardened-shaft/) |
+| Wheel                 | For Moving around            | $2.80            | Foam wheel, lightweight to move around             | Yes    | [Link](https://itgresa.com/product/snap-wheels/) |
+| Shipping+Taxes        |                              | $12.23           |                                                     | No     |          |
+| Battery               | Battery                      | $16.99           | 2S lipo 450mAh battery, enough for a wedge type bot | Yes    | [Link](https://www.amazon.com/gp/product/B0D3F5SQ5T/ref=ewc_pr_img_1?smid=A1KODDOPEPALCP&psc=1) |
+| Wire                  | Red + Black                  | $7.99            | To connect electronics                             | Yes    | [Link](https://www.amazon.com/gp/product/B0CZ73SQP8/ref=sw_img_1?smid=A233TC6CG7N557) |
+| XT30 Connector        | TO connect Lipo battery      | $7.99            | TO connect battery                                 | Yes    | [Link](https://www.amazon.com/ZHOFONET-Pigtail-Connector-Adapter-Silicone/dp/B09LYHHS9J/ref=sr_1_6?sr=8-6) |
+| Filament              | Black                        | $12.99           | For Main Body                                      | Yes    | [Link](https://www.amazon.com/eSUN-Printing-Filament-Printer-Printers/dp/B0CS35CKPJ/ref=sr_1_1_sspa?s=industrial&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY) |
+| Shipping+Taxes        | my dad has prime so it could be cheaper | $1.60  |                                                     | No     |          |
+|                       | Total (Without Shipping & Taxes) | $132           |                                                     | No     |          |
+| Filament              | Red                          | Already Have     | PLA+ im pretty sure                                | Yes    |          |
+| Switch                |                              | Not ordering     | Already Have it                                    | Yes    |          |
+| Wheel Hub             |                              | Not ordering     | 3D printing it                                     | Yes    |          |
+| Transmitter+Receiver  | To control the Robot         | Using my Own money | Flysky fs-i6 + FS-iA6                              | Yes    | [Link](https://www.amazon.com/Flysky-Transmitter-Controller-Helicopter-Quadcopter/dp/B07CWBQ2HM) |
 
 
 

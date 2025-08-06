@@ -79,5 +79,10 @@ Polished my CAD, really proud of this design.
 
 Finalised BOM & Made STL Files. Had some issues pushing it into Git. Finally done.
 
+## Day 10: July 21, 2025
+### Time Spent: <1 hr
+
+Came back from undercity, this project needs to be rereviewed of some unfinished stuff (some BOM and readme stuff). Fixed that in under an hour.
+
 
 
