@@ -1,4 +1,4 @@
-# goli-v1
+# Hot Wheels v1
 An ant-weight (1lb) battlebot. 
 Retired for now.
 Hot Wheels v2 coming soon.
