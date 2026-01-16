@@ -1,6 +1,7 @@
 # goli-v1
-An ant weight battlebot named after my favorite mentor, Goli. Goli means "Bullet" in my native language.
-This is a 1lb PLANT (Plastic Antweight) Combat Robot. The Weapon type is a Wedge, and I was inspired to make this after watching alot of combat robots. I also named it after my favourite Engineering Mentor.
+An ant-weight (1lb) battlebot. 
+Retired for now.
+Hot Wheels v2 coming soon.
 
 ### Wiring Schemeatic and Electronics Used 
 
